@@ -5,9 +5,9 @@ public class Yo {
         while (c1 <= 121) {
             System.out.println(++c1);
         }
-        char c2 = 1039;
-        while (c2 <= 1102) {
-            System.out.println(++c2);
+        char v2 = 1039;
+        while (v2 <= 1102) {
+            System.out.println(++v2);
         }
     }
 }
