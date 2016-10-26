@@ -1,3 +1,5 @@
+package Home_Work1;
+
 /**
  * Created by Strizhko on 17.10.2016.
  */
@@ -8,7 +10,7 @@ public class Home_2_5 {
             int ss = Integer.parseInt(args[i]);
             s += ss;
             p *= ss;
-           // System.out.println(args[i]); наш ссаный масив
+           // System.out.println(args[i]);
         }
         System.out.println("summ = " + s);
         System.out.println("proizv = " + p);

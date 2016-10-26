@@ -1,4 +1,4 @@
-/**
+package Home_Work1; /**
  * Created by Strizhko on 17.10.2016.
  */
 import java.lang.Math;

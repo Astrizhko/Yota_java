@@ -1,24 +1,28 @@
+package Home_Work1;
+
 import java.io.IOException;
 
 public class Yo {
     public static void main(String[] args) throws IOException {
-       /* char c1 = 96;
+        char c1 = 96;
         while (c1 <= 121) {
             System.out.println(++c1);
         }
         char v2 = 1039;
         while (v2 <= 1102) {
             System.out.println(++v2);
-        }
-        **/
-        int n =100;
-        while (n <200) {
-            System.out.println(n);
-            n++;
-        }
 
+           /* int n = 100;
+            while (n < 200) {
+                System.out.println(n);
+                n++;
+            }
+            */
+
+        }
     }
 }
+
 /*
 
         String as = "dfgdf";
