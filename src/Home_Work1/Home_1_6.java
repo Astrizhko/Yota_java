@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 import java.util.concurrent.atomic.AtomicReference;
 
-public class Home_2_6 {
+public class Home_1_6 {
     public static void main(String[] args) {
         //  int m[];
         Scanner in = new Scanner(System.in);

@@ -4,7 +4,7 @@ package Home_Work1; /**
 import java.util.Scanner;
 import static java.lang.System.in;
 
-public class Home_2_1 {
+public class Home_1_1 {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
